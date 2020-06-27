@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="en"><!-- Basic -->
+
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">   
+   
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+ 
+     <!-- Site Metas -->
+    <title>Dermalook </title>  
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Site Icons -->
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- Pogo Slider CSS -->
+    <link rel="stylesheet" href="css/pogo-slider.min.css">
+	<!-- Site CSS -->
+    <link rel="stylesheet" href="css/style.css">    
+    <!-- Responsive CSS -->
+    <link rel="stylesheet" href="css/responsive.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/custom.css">
+
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+<body id="home" data-spy="scroll" data-target="#navbar-wd" data-offset="98" style="background-color:" >
+
+	<!-- LOADER -->
+     <!-- <div id="preloader">
+		<div class="loader">
+			<img src="images/preloader.gif" alt="" />
+		</div>
+    </div>end loader -->
+    <!-- END LOADER -->
+	
+	<!-- Start top bar -->
+	
+	<!-- End top bar -->
+	
+	<!-- Start header -->
+	<header class="top-header " style="background-color:#BEBEBE;">
+		<nav class="navbar header-nav navbar-expand-lg">
+            <div class="container">
+				<center><a class="navbar-brand" href="index.html"><img src="images/medium.png" width="263" height="70" alt="image"></a></center>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-wd" aria-controls="navbar-wd" aria-expanded="false" aria-label="Toggle navigation">
+					<span></span>
+					<span></span>
+					<span></span>
+				</button>
+                <div class="collapse navbar-collapse justify-content-end" id="navbar-wd">
+                    <ul class="navbar-nav">
+                        <li><a class="nav-link active" href="#home">Home</a></li>
+                        <li><a class="nav-link" href="#about">About Us</a></li>
+                        <li><a class="nav-link" href="#services">Services</a></li>
+						<li><a class="nav-link" href="#appointment">Appointment</a></li>
+                        <li><a class="nav-link" href="#info">Info</a></li>
+						<li><a class="nav-link" href="#gallery">Gallery</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+	</header>
+	<!-- End header -->
+	
+	<!-- Start Banner -->
+	<!-- <div class="ulockd-home-slider">
+		<div class="container-fluid">
+	
+			<div class="row">
+			
+				<div class="pogoSlider" id="js-main-slider">
+					<div class="pogoSlider-slide" data-transition="fade" data-duration="1500" style="background-image:url(images/slider-01.jpg);">
+						<div class="lbox-caption pogoSlider-slide-element">
+							<div class="lbox-details " >
+								<h1>Welcome to Dermalook</h1>
+								<p>ceva citat </p>
+								<a href="#" class="btn">Contact Us</a>
+							</div>
+						</div>
+					</div>
+					<div class="pogoSlider-slide" data-transition="fade" data-duration="1500" style="background-image:url(images/slider-02.jpg);">
+						<div class="lbox-caption pogoSlider-slide-element">
+							<div class="lbox-details">
+								<h1>We are Expert in The Field of Dermalook</h1>
+								<p>Fusce convallis ante id purus sagittis malesuada. Sed erat ipsum</p>
+								<a href="#appointment" class="btn">Appointment</a>
+							</div>
+						</div>
+					</div>
+					<div class="pogoSlider-slide" data-transition="fade" data-duration="1500" style="background-image:url(images/slider-03.jpg);">
+						<div class="lbox-caption pogoSlider-slide-element">
+							<div class="lbox-details">
+								<h1>Welcome to Dermalook</h1>
+								<p>Fusce convallis ante id purus sagittis malesuada. Sed erat ipsum </p>
+								<a href="#" class="btn">Contact Us</a>
+							</div>
+						</div>
+						
+					</div>
+				</div><!-- .pogoSlider -->
+			</div>
+		</div>
+	</div>
+
+	<!-- End Banner -->
+	
+	<!-- Start About us -->
+	<div id="about" class="about-box">
+		<div class="about-a1">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="title-box"><br>
+							<h2>Welcome to Dermalook</h2>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-lg-12 col-md-12 col-sm-12">
+						<div class="row align-items-center about-main-info">
+							<div class="col-lg-8 col-md-1 col-sm-12">
+								<h4> About us </h4>
+								<p align="justify"> 
+					Nicoleta Liber- FOUNDER / MEDICAL Aesthetician <br> Nicoleta is passionate about the art of making clients look and feell better about their beauty and health with the aging process by creating a natural look. Clients value her honestity, compassion and attention to details. She graduaded from Canadian Beauty College with Honours Diploma. </p>
+					<h4>Our mission statement</h4>
+					<p align="justify">We are comimitted to providing you with an exceptional experience from the moment you walk trough our door. We take the time to listen to you. You are empowered to look and feel your "natural" best trough our high level of expertise and high standarts. We look forward to building a trusting relationship with you.</p>
+					
+							
+							</div>
+							<div class="col-lg-4 col-md-12 col-sm-12">
+							<center><img src="images/leta.jpg" width="180" height="235"></center>
+					
+							</div>
+							
+							<!--daca vreau sa pun-->
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- End About us -->
+	
+	<!-- Start Services -->
+	<div id="services" class="services-box" style="background-color: #f2f3f5;">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+				<br>
+					<div class="title-box">
+						<h2>Services</h2>
+						<p> </p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="owl-carousel owl-theme">
+						<div class="item">
+							<div class="serviceBox">
+								
+								<h3 class="title">Microdermabrasion</h3>
+								<p class="description">
+									<img src="images/poza1.jpeg" width="90" height="180">
+								</p>
+								<h3 class="title">$150</h3>
+								<a href="#" class="new-btn-d br-2">Read More</a> <a href="https://www.fresha.com/providers/dermashine-c0apns5v" class="new-btn-d br-2">Book</a>
+							</div>
+						</div>
+						<div class="item">
+							<div class="serviceBox">
+								<h3 class="title">Dermaplanning</h3>
+								<p class="description">
+									<img src="images/poza2.jpeg" width="90" height="180"> 
+								</p>
+								<h3 class="title">$150</h3>
+								
+								<a href="#" class="new-btn-d br-2">Read More</a> <a href="https://www.fresha.com/providers/dermashine-c0apns5v" class="new-btn-d br-2">Book</a>
+							</div>
+						</div>
+						<div class="item">
+							<div class="serviceBox">
+								<h3 class="title">Ultrasound</h3>
+								<p class="description">
+									<img src="images/ultra.jpg" width="90" height="180"> 
+								</p>
+									<h3 class="title">$150</h3>
+								<a href="#" class="new-btn-d br-2">Read More</a> <a href="https://www.fresha.com/providers/dermashine-c0apns5v" class="new-btn-d br-2">Book</a>
+							</div>
+						</div>
+						<div class="item">
+							<div class="serviceBox">
+								<h3 class="title">Aqua peel</h3>
+								<p class="description">
+									<img src="images/aqua.png" width="100" height="180"> 
+								</p>
+									<h3 class="title">$150</h3>
+								<a href="#" class="new-btn-d br-2">Read More</a> <a href="#" class="new-btn-d br-2">Book</a>
+							</div>
+						</div>
+						<div class="item">
+							<div class="serviceBox">
+								<div class="service-icon"><i class="fa fa-wheelchair" aria-hidden="true"></i></div>
+								<h3 class="title">Lorem ipsum dolor</h3>
+								<p class="description">
+									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium consequuntur.
+								</p>
+								<a href="#" class="new-btn-d br-2">Read More</a>
+							</div>
+						</div>
+						<div class="item">
+							<div class="serviceBox">
+								<div class="service-icon"><i class="fa fa-plus-square" aria-hidden="true"></i></div>
+								<h3 class="title">Lorem ipsum dolor</h3>
+								<p class="description">
+									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium consequuntur.
+								</p>
+								<a href="#" class="new-btn-d br-2">Read More</a>
+							</div>
+						</div>
+						<div class="item"> 
+							<div class="serviceBox">
+								<div class="service-icon"><i class="fa fa-medkit" aria-hidden="true"></i></div>
+								<h3 class="title">Lorem ipsum dolor</h3>
+								<p class="description">
+									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium consequuntur.
+								</p>
+								<a href="#" class="new-btn-d br-2">Read More</a>
+							</div>
+						</div>
+						<div class="item">
+							<div class="serviceBox">
+								<div class="service-icon"><i class="fa fa-user-md" aria-hidden="true"></i></div>
+								<h3 class="title">Lorem ipsum dolor</h3>
+								<p class="description">
+									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium consequuntur.
+								</p>
+								<a href="#" class="new-btn-d br-2">Read More</a>
+							</div>
+						</div>
+						<div class="item">
+							<div class="serviceBox">
+								<div class="service-icon"><i class="fa fa-ambulance" aria-hidden="true"></i></div>
+								<h3 class="title">Lorem ipsum dolor</h3>
+								<p class="description">
+									Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium consequuntur.
+								</p>
+								<a href="#" class="new-btn-d br-2">Read More</a>
+							</div>
+						</div>
+					</div>
+					<br> 
+				</div>
+			</div>			
+		</div>
+	</div>
+	<!-- End Services -->
+	
+	<!-- Start Appointment -->
+	<div id="appointment" class="appointment-main">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="title-box">
+					<span style="opacity:0;" >*</span>
+						<h2>Appointment</h2>
+						
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-6 col-md-6">
+					<div class="well-block">
+                        <div class="well-title">
+                            <center><h2>Opening hours</h2> </center>
+                        </div>
+                       
+                            <!-- Form start -->
+                            <div class="row" align="center">
+                                <div class="col-md-12 align-center text-center col-centered">
+								<center>
+                                  <table style="text-align:center " align="center" height="218" width="300" style="margin: 8px 0px 0px;" border="1">
+                <tbody>
+                  <tr>
+                    <td>Monday</td>
+                    <td><span style="opacity:0;" >*</span>9.30 - 18.00</td>
+                  </tr>
+                  <tr>
+                    <td>Tuesday</td>
+                    <td><span style="opacity:0;">*</span>9.30 - 17.00</td>
+                  </tr>
+                  <tr>
+                    <td>Wednesday</td>
+                    <td><span style="opacity:0;">*</span>9.30 - 20.00</td>
+                  </tr>
+				  <tr>
+                    <td>Thursday</td>
+                    <td><span style="opacity:0;">*</span>9.30 - 19.00</td>
+                  </tr>
+				  <tr>
+                    <td>Friday</td>
+                    <td><span style="opacity:0;">*</span>9.30 - 19.00</td>
+                  </tr>
+				  <tr>
+                    <td> Saturday</td>
+                    <td><span style="opacity:0;">****</span>by appointment</td>
+                  </tr>
+				  <tr>
+                    <td>Sunday</td>
+                    <td><span style="opacity:0;">****</span>by appointment</td>
+                  </tr>
+                </tbody>
+              </table><br>
+			  </center>
+                                    </div>
+                                
+                                <!-- Button -->
+                                <div class="col-md-12">
+                                    
+                                </div>
+                            </div>
+                       
+                        <!-- form end -->
+                    </div>
+				</div>
+				<div class="col-lg-6 col-md-6">
+					<div class="well-block">
+                        <div class="well-title">
+                           <center> <h2>Why Appointment with Us</h2> <center>
+                        </div>
+                        <center><div class="feature-block">
+                           
+                            <div class="feature feature-blurb-text">
+                                <h4 class="feature-title">Experienced Staff Available</h4>
+                                <div class="feature-content">
+                                    <p>Aliquam sit amet mi eu libero fermentum bibe  </p>
+                                </div>
+                            </div>
+                            <div class="feature feature-blurb-text">
+                                <h4 class="feature-title">Low Price & Fees</h4>
+                                <div class="feature-content">
+                                    <p>Praesent eu sollicitudin nunc. Cras malesuada     </p>
+                                </div>
+								<center><a href="https://www.fresha.com/providers/dermashine-c0apns5v"class="buttonus button5">Make an appointment</a></center>
+                            </div>
+							
+                        </div></center>
+                    </div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- End Appointment -->
+	<!-- zacinaie directia-->
+	<div id="info" class="blog-main" style="background-color: #f2f3f5;">
+	<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="title-box">
+					<span style="opacity:0;" >*</span>
+						<h2>Info</h2>
+						
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-6 col-md-6">
+					<div class="well-block">
+                        <div class="well-title">
+                            <center><h2>Location</h2> </center>
+										<span style="opacity:0;" >*</span>
+                        </div>
+                       
+                            <!-- Form start -->
+                            <div class="row" align="center">
+                                <div class="col-md-12 align-center text-center col-centered">
+								<!--Google map-->
+									
+										<div id="map-container-google-1" class="z-depth-1-half map-container" style="height: 300px">
+											<iframe src="https://maps.google.com/maps?q=dermalook%20toronto%20&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0"
+											style="border:0" allowfullscreen></iframe>
+										</div>
+										
+
+								<!--Google Maps-->		
+										<span style="opacity:0;" >*</span>
+                                    </div>
+                                
+                                
+                            </div>
+                       
+                        <!-- form end -->
+                    </div>
+				</div>
+				<div class="col-lg-6 col-md-6">
+					<div class="well-block">
+                        <div class="well-title">
+                           <center> <h2>Contact and find us</h2> <center>
+						   
+                        </div>
+							<div class="row" >
+								<div class="col-md-12 align-center text-center col-centered" align="center">
+								<span style="opacity:0;" >*</span><br>
+				
+								<i class="fa fa-map-marker" style="font-size:26px"> 1635 Lawrence Ave West <br> Suite 204A, Toronto</i>
+								<br><br>
+								<i class="fa fa-envelope" style="font-size:26px"> info@dermalook.ca</i>
+								<br><br>
+								<i class="fa fa-phone" style="font-size:26px"> +1 416-551-9040</i>
+								<br><br>
+								<a href="https://www.facebook.com/pg/dermalookskincare/about/?ref=page_internal"><i class="fa fa-facebook" style="font-size:26px"> DermaLook</i></a>
+								<br><br>
+								<a href="https://www.instagram.com/dermalookskincare/"><i class="fa fa-instagram" style="font-size:26px"> dermalookskincare</i></a>
+								
+								
+
+								</div>
+						  </div>
+                            
+							
+                        </div></center>
+                    </div>
+				</div>
+			</div>
+		</div>
+		
+		<!-- coneat directii-->
+	
+	<!-- Start Gallery -->
+	<div id="gallery" class="gallery-box">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="title-box">
+					<span style="opacity:0;" >*</span>
+						<h2>Gallery</h2>
+						<span style="opacity:0;" >*</span>
+						
+					</div>
+				</div>
+			</div>
+			
+			<div class="popup-gallery row clearfix">
+				<div class="col-md-3 col-sm-6">
+					<div class="box-gallery">
+						<img src="images/gallery-01.jpg" alt="">
+						<div class="box-content">	
+							<h3 class="title">Lorem ipsum dolor</h3>
+							<ul class="icon">
+								<li><a href="images/gallery-01.jpg"><i class="fa fa-picture-o" aria-hidden="true"></i></a></li>								
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="box-gallery">
+						<img src="images/gallery-02.jpg" alt="">
+						<div class="box-content">
+							<h3 class="title">Lorem ipsum dolor</h3>
+							<ul class="icon">
+								<li><a href="images/gallery-02.jpg"><i class="fa fa-picture-o" aria-hidden="true"></i></a></li>								
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">					
+					<div class="box-gallery">
+						<img src="images/gallery-03.jpg" alt="">
+						<div class="box-content">							
+							<ul class="icon">
+								<li><a href="images/gallery-03.jpg"><i class="fa fa-picture-o" aria-hidden="true"></i></a></li>								
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="box-gallery">
+						<img src="images/gallery-04.jpg" alt="">
+						<div class="box-content">	
+							<h3 class="title">Lorem ipsum dolor</h3>
+							<ul class="icon">
+								<li><a href="images/gallery-04.jpg"><i class="fa fa-picture-o" aria-hidden="true"></i></a></li>								
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="box-gallery">
+						<img src="images/gallery-05.jpg" alt="">
+						<div class="box-content">							
+							<h3 class="title">Lorem ipsum dolor</h3>
+							<ul class="icon">
+								<li><a href="images/gallery-05.jpg"><i class="fa fa-picture-o" aria-hidden="true"></i></a></li>								
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">					
+					<div class="box-gallery">
+						<img src="images/gallery-06.jpg" alt="">
+						<div class="box-content">
+							<h3 class="title">Lorem ipsum dolor</h3>
+							<ul class="icon">
+								<li><a href="images/gallery-06.jpg"><i class="fa fa-picture-o" aria-hidden="true"></i></a></li>								
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="box-gallery">
+						<img src="images/gallery-07.jpg" alt="">
+						<div class="box-content">
+							<h3 class="title">Lorem ipsum dolor</h3>
+							<ul class="icon">
+								<li><a href="images/gallery-07.jpg"><i class="fa fa-picture-o" aria-hidden="true"></i></a></li>								
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="box-gallery">
+						<img src="images/gallery-08.jpg" alt="">
+						<div class="box-content">		
+							<h3 class="title">Lorem ipsum dolor</h3>
+							<ul class="icon">
+								<li><a href="images/gallery-08.jpg"><i class="fa fa-picture-o" aria-hidden="true"></i></a></li>								
+							</ul>
+						</div>
+					</div>
+					<br>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- End Gallery -->
+	
+	<!-- Start Team -->
+	
+	
+	<!-- End Team -->
+	
+	<!-- Start Blog -->
+	
+	<!-- End Blog -->
+	
+	<!-- Start Contact -->
+	
+	
+
+	<!-- End Subscribe -->
+	
+	<!-- Start Footer -->
+	<footer class="footer-box">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<p class="footer-company-name">All Rights Reserved. &copy; 2018 <a href="#">Dermalook</a> Design By : <a href="https://html.design/">html design</a></p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- End Footer -->
+	
+	<a href="#" id="scroll-to-top" class="new-btn-d br-2"><i class="fa fa-angle-up"></i></a>
+
+	<!-- ALL JS FILES -->
+	<script src="js/jquery.min.js"></script>
+	<script src="js/popper.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+    <!-- ALL PLUGINS -->
+	<script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/jquery.pogo-slider.min.js"></script> 
+	<script src="js/slider-index.js"></script>
+	<script src="js/smoothscroll.js"></script>
+	<script src="js/TweenMax.min.js"></script>
+	<script src="js/main.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/form-validator.min.js"></script>
+    <script src="js/contact-form-script.js"></script>
+	<script src="js/isotope.min.js"></script>	
+	<script src="js/images-loded.min.js"></script>	
+    <script src="js/custom.js"></script>
+</body>
+</html>
