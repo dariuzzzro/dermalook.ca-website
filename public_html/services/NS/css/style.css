@@ -146,7 +146,7 @@ button:focus{
 }
 
 .form-control::-moz-placeholder {
-    color: #808080;
+    color: #12557f;
     opacity: 1;
 }
 
@@ -205,7 +205,7 @@ button:focus{
 -------------------------------------------------------------------*/
 
 .main-top{
-	background: #808080;
+	background: #12557f;
 }
 .left-top a{
 	display: inline-block;
@@ -500,7 +500,7 @@ button:focus{
 	font-family: 'Catamaran', sans-serif;
 }
 .lbox-details a.btn{
-	background: #808080;
+	background: #12557f;
 	padding: 10px 20px;
 	font-size: 20px;
 	text-transform: capitalize;
@@ -674,13 +674,13 @@ button:focus{
 	letter-spacing: 1px;
 	padding: 10px 18px;
 	background: #ffffff;
-	color: #808080;
+	color: #12557f;
 	display: inline-block;
 	line-height: 24px;
 }
 
 .about-main-info a.new-btn-d.br-2{
-	border: 2px solid #808080;
+	border: 2px solid #12557f;
 }
 
 .about-main-info a.new-btn-d::before{
@@ -766,7 +766,7 @@ button:focus{
     height: 60px;
     line-height: 80px;
     font-size: 30px;
-    color: #808080;
+    color: #064774;
     margin-bottom: 35px;
     z-index: 1;
     position: relative;
@@ -793,7 +793,7 @@ button:focus{
 .serviceBox .title{
     font-size: 20px;
     font-weight: 700;
-    color: #808080;
+    color: #064774;
     text-transform: capitalize;
     margin: 0 0 15px 0;
 	padding: 0;
@@ -807,6 +807,15 @@ button:focus{
 @media only screen and (max-width:990px){
     .serviceBox{ margin-bottom: 30px; }
 }
+bara {style="text-align:center; border-left: 6px solid green;
+    background-color: whitesmoke;}
+@media screen and (max-width: 600px) {
+  bara {
+   text-align:center; 
+    background-color: whitesmoke;
+      border-left: 6px solid green;
+  }
+}
 
 .serviceBox a{
 	border-radius: 2px;
@@ -814,20 +823,16 @@ button:focus{
 	letter-spacing: 1px;
 	padding: 10px 18px;
 	background: #ffffff;
-	color: #808080;
+	color: #12557f;
 	display: inline-block;
 	line-height: 12px;
 }
 
 .serviceBox a.new-btn-d.br-2{
-	border: 2px solid #808080;
+	border: 2px solid #12557f;
 }
 .serviceBox a:hover{
 	color: #ffffff;
-    min-height: 90px;
-    min-width: :90px;
-    max-height: 90px;
-    max-width: 50px;
 }
 .serviceBox a.new-btn-d::before {
     background: rgba(18,85,127,0.2);
@@ -841,13 +846,13 @@ button:focus{
 	margin-top: 20px;
 }
 .services-box .owl-carousel .owl-nav .owl-prev{
-	border: 2px solid #808080;
+	border: 2px solid #12557f;
 	border-radius: 2px;
 	transition: .2s;
 	letter-spacing: 1px;
 	padding: 10px 18px !important;
 	background: #ffffff;
-	color: #808080;
+	color: #12557f;
 	display: inline-block;
 	line-height: 12px;
 	font-size: 34px;
@@ -858,13 +863,13 @@ button:focus{
 	color: #ffffff;
 }
 .services-box .owl-carousel .owl-nav .owl-next{
-	border: 2px solid #808080;
+	border: 2px solid #12557f;
 	border-radius: 2px;
 	transition: .2s;
 	letter-spacing: 1px;
 	padding: 10px 18px !important;
 	background: #ffffff;
-	color: #808080;
+	color: #12557f;
 	display: inline-block;
 	line-height: 12px;
 	font-size: 34px;
@@ -899,8 +904,8 @@ button:focus{
 	min-height: 50px;
 	padding: 0px 15px;
 	border-radius: 0;
-	color: #808080;
-	border: 1px solid #808080;
+	color: #12557f;
+	border: 1px solid #12557f;
 }
 .well-block form .form-group .form-control:focus{
 	box-shadow: none;
@@ -912,13 +917,13 @@ button:focus{
 	letter-spacing: 1px;
 	padding: 10px 18px;
 	background: #ffffff;
-	color: #808080;
+	color: #12557f;
 	display: inline-block;
 	line-height: 24px;
 	cursor: pointer;
 }
 .well-block form .form-group button.new-btn-d.br-2 {
-    border: 2px solid #808080;
+    border: 2px solid #12557f;
 }
 .well-block form .form-group button.new-btn-d::before {
     background: rgba(18,85,127,0.2);
@@ -1046,7 +1051,7 @@ button:focus{
     border-radius: 50%;
     font-size: 18px;
     color: #000;
-    border: 2px solid #808080;
+    border: 2px solid #12557f;
     margin-right: 5px;
     transition: all 0.3s ease-in-out 0s;
 }
@@ -1078,7 +1083,7 @@ button:focus{
     content: "";
     width: 130px;
     height: 130px;
-    background: #808080;
+    background: #12557f;
     position: absolute;
 	border-radius: 50%;
     z-index: -1;
@@ -1098,7 +1103,7 @@ button:focus{
     transition: all 0.5s ease 0s;
 }
 .our-team:hover .pic{
-    border-color: #808080;
+    border-color: #12557f;
 }
 .our-team .pic:after{
     content: "";
@@ -1165,7 +1170,7 @@ button:focus{
 }
 .our-team .social li a:hover{
     background: #fff;
-    color: #808080;
+    color: #12557f;
 }
 @media only screen and (max-width: 990px){
     .our-team{ margin-bottom: 30px; }
@@ -1209,14 +1214,14 @@ button:focus{
 	letter-spacing: 1px;
 	padding: 10px 18px;
 	background: #ffffff;
-	color: #808080;
+	color: #12557f;
 	font-size: 14px;
 	display: inline-block;
 	line-height: 24px;
 }
 
 .blog-inner a.new-btn-d.br-2{
-	border: 2px solid #808080;
+	border: 2px solid #12557f;
 }
 
 .blog-inner a.new-btn-d::before{
@@ -1229,10 +1234,10 @@ button:focus{
 }
 
 .blog-inner .item-meta{
-	background: #808080;
+	background: #12557f;
 }
 .blog-inner .item-meta a{
-	background: #808080;
+	background: #12557f;
 	color: #ffffff;
 	display: inline-block;
 	border: none;
@@ -1433,7 +1438,7 @@ select.form-control:not([size]):not([multiple]){
 	letter-spacing: 1px;
 	padding: 10px 18px;
 	background: #ffffff;
-	color: #808080;
+	color: #12557f;
 	display: inline-block;
 	line-height: 24px;
 	border: none;
@@ -1441,7 +1446,7 @@ select.form-control:not([size]):not([multiple]){
 }
 
 .subscribe-inner .form-group button.new-btn-d.br-2 {
-    border: 2px solid #808080;
+    border: 2px solid #12557f;
 }
 .subscribe-inner .form-group button.new-btn-d::before{
 	background: rgba(18,85,127,0.2);
@@ -1489,20 +1494,7 @@ position:relative;
 p.times {
   font-family: "Times New Roman";
 }
-.buttonservices {
-  background-color: #4CAF50; /* Green */
-  border: none;
-  color: white;
-  padding: 20px 40px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 2px 2px;
-  -webkit-transition-duration: 0.4s; /* Safari */
-  transition-duration: 0.4s;
-  cursor: pointer;
-}
+
 
 
 
