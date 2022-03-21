@@ -824,10 +824,6 @@ button:focus{
 }
 .serviceBox a:hover{
 	color: #ffffff;
-    min-height: 90px;
-    min-width: :90px;
-    max-height: 90px;
-    max-width: 50px;
 }
 .serviceBox a.new-btn-d::before {
     background: rgba(18,85,127,0.2);
